@@ -8,3 +8,5 @@ habit.json
 count_daily_product_sales.json
 /.venv
 top10.json
+count_daily_product_sales.json
+dataset_for_ML.csv
