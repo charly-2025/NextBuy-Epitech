@@ -43,7 +43,3 @@ jupyter notebook notebook.ipynb
 ## Tech stack
 
 `Python` · `pandas` · `Jupyter` · `Matplotlib` · `Seaborn` · `scikit-learn`
-
----
-
-More of my work on my [portfolio](https://charly-2025.github.io/myPortfolio/).
