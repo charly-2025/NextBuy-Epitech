@@ -19,11 +19,6 @@ Exploration of a real-world dataset of millions of orders placed by thousands of
 
 `Python` · `pandas` · `Jupyter` · `Matplotlib` · `Seaborn`
 
-## Team
-
-- Charly Richard-Fromont
-- gabriel
-
 ---
 
 More of my work on my [portfolio](https://charly-2025.github.io/myPortfolio/).
